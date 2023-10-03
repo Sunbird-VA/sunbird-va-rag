@@ -1,0 +1,7 @@
+setuptools
+wheel
+Flask
+flask-cors
+redis
+tiktoken
+openai
